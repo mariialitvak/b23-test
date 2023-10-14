@@ -1,0 +1,4 @@
+b23-test % git status On branch main
+b23-test % git branch b23-test %
+git log fatal: your current branch 'main' does not have any commits yet
+git log --merges fatal: your current branch 'main' does not have any commits yet
